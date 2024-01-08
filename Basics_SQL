@@ -1,0 +1,9 @@
+SQL stands for Structured Query Language and it is basically used to perform CRUD operations in Database.
+
+C - Create.
+R - Read.
+U - Update.
+D - Delete.
+
+It is generally used to create tables and manage the Database, sql has many different types of queries for performing different commands.
+SQL is a type of structured database it means that the data is stored in form of table.
