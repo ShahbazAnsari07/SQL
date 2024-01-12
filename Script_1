@@ -1,4 +1,4 @@
-// This consist of the scripts which are used to create database how to use database and to create table and enter values in table.
+// This consist of the scripts which are used to create database how to use database and to create table and enter values in the particular table.
 
 CREATE DATABASE college;
 USE college;
