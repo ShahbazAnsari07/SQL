@@ -1,0 +1,16 @@
+// This consist of the scripts which are used to create database how to use database and to create table and enter values in table.
+
+CREATE DATABASE college;
+USE college;
+
+CREATE TABLE student(
+  id INT PRIMARY KEY,
+  name VARCHAR(50),
+  age INT NOT NULL
+);
+
+INSERT INTO student VALUES(1, "Shahbaz", 20);
+INSERT INTO student VALUES(2, "Aparna", 21);
+
+SELECT * FROM student;
+
