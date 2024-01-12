@@ -1,2 +1,2 @@
 # SQL
-This repo contains all about Structured Query Language.
+This repository consist all about Structured Query Language and Databases.
