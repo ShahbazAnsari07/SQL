@@ -1,1 +1,16 @@
-Different types of Databases in SQL
+Different types of Databases in SQL:
+
+DATATYPE                             DESCRIPION                                                        USAGE                                
+
+CHAR                               string(0-255)                                                      CHAR(50)
+VARCHAR                            string(0-255)                                                      VARCHAR(50)
+BLOB                               string(0-65535)                                                    BLOB(1000)
+INT                                integer(-2, 147, 483,648 to 2, 147,483,647)                        INT
+TINYINT                            integer(-128 to 127)                                               TINYINT
+BIGINT                             integer(-9,223,373,036,853,775,808)                                BIGINT
+BIT                                can store x-bit values, x range from 1 to 64                       BIT(2)
+FLOAT                              Decimal number - with precision to 23 digits.                      FLOAT
+DOUBLE                             Decimal number - with 24 to 53 digits                              DOUBLE
+BOOLEAN                            Boolean values 0 or 1                                              BOOLEAN
+DATE                               Date in format of YYYY-MM-DD                                       DATE
+YEAR                               year in 4 digit format                                             YEAR
