@@ -1,0 +1,5 @@
+NOT NULL : columns cannot have a null value.
+UNIQUE : all values in column are different.
+PRIMARY KEY : makes a column unique & not null but used only once.
+FOREIGN KEY :  prevent actions that would destroy links between tables.
+DEFAULT : sets the default value of a column.
